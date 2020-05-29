@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Majstor</string>
+    <string name="facebook_app_id">515776635549850</string>
+    <string name="fb_login_protocol_scheme">fb515776635549850</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="requests_count_mock" translatable="false">5</string>
+    <string name="weight_mock" translatable="false">50 oz</string>
+    <string name="pledge_mock" translatable="false">$150</string>
+    <string name="client_name_mock" translatable="false">Edward Norton</string>
+    <string name="delivery_time_mock" translatable="false">6:30 pm</string>
+    <string name="deadline_time_mock" translatable="false">24 minutes</string>
+    <string name="btn_annotation_mock" translatable="false">5 people have sent a request</string>
+    <string name="content_from1_mock">W 90th St</string>
+
+</resources>
